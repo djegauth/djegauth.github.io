@@ -161,7 +161,7 @@ body {
 
 .cv_formation_intitule {
   font-family: 'Open Sans', sans-serif;
-  font-weight: 300;
+  font-weight: 400;
   text-align: left; }
 
 .disquaire_section_title {
@@ -311,3 +311,6 @@ body {
   text-align: center;
   color: #ffffff;
   margin-top: 20px; }
+
+#map {
+  height: 580px; }
