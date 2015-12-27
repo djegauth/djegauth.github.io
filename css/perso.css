@@ -1,0 +1,41 @@
+body {
+  background-color: #21252B;
+  color: #eceff1;
+}
+h2 {
+  text-align: center;
+}
+h3 {
+  color: #a8e6cf;
+  font-weight: 300;
+}
+h5 {
+  font-weight: 500;
+}
+blockquote {
+  margin-left: 21.25px;
+}
+.chip {
+  margin-top: 5px;
+  margin-right: 5px;
+}
+.projet {
+  margin-bottom: 5px;
+}
+.mission {
+  margin-bottom: 5px;
+}
+.formation-date {
+  text-align: right;
+}
+.formation {
+  margin-bottom: 15px;
+}
+ul.formation {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.projet {
+  margin-bottom: 15px;
+  margin-left: 21.25px;
+}
