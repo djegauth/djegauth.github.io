@@ -2,6 +2,12 @@ body {
   background-color: #21252B;
   color: #eceff1;
 }
+a:link {
+  color: #a8e6cf;
+}
+a:visited {
+  color: #a8e6cf;
+}
 h2 {
   text-align: center;
 }
